@@ -1,9 +1,9 @@
-______________LINKS________________
-
-GitHub: https://github.com/ArthurRuman/Esta-o-de-monitoramento-ambiental---Temperatura-e-Humidade/blob/main/README.md
 
 
-Vídeo YouTube: https://youtu.be/5kIJzzGG9I8
+GitHub: 
+
+
+Vídeo YouTube: 
 
 
 **** Vídeos não inclusos no repositório pois excede 25MB (tamanho máximo suportado pelo Github).
