@@ -1,5 +1,4 @@
-@@ -1 +1,116 @@
-# TemperatureHumidityStation
+
 # Estação de monitoramento ambiental -  Temperatura e Humidade
 
 Em uma Cidade Grande igual São Paulo, ou em cidades de interiores menores, sempre foi muito comum o uso de Termômetros e sensores para medir temperatura e umidade. 
