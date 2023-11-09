@@ -35,6 +35,7 @@ void loop()
   servo.write(pos);
 
   Serial.println(h);
+  
 } 
 
 
