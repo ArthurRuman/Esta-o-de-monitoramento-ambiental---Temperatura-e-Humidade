@@ -1,5 +1,5 @@
 
-# Estação de monitoramento ambiental -  Temperatura e Humidade
+# Estação de monitoramento ambiental -  Temperatura e Humidade 
 
 Em uma Cidade Grande igual São Paulo, ou em cidades de interiores menores, sempre foi muito comum o uso de Termômetros e sensores para medir temperatura e umidade. 
 Baseado nisso, o projeto visa exercer o papel de uma estação móvel de controle e medição de temperatura e umidade, porém, conta como vantagens extremamente úteis, como: seu tamanho compacto e sua vasta gama de adaptações. 
