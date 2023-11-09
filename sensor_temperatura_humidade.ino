@@ -1,4 +1,4 @@
-#include "DHT.h"
+#include "DHT.h" 
 #include <Servo.h>
 
 #define DHTPIN 5
